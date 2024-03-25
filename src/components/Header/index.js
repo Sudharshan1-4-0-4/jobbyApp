@@ -43,7 +43,7 @@ const Header = props => {
                 className="nav-mobile-btn"
                 onClick={onClickLogout}
               >
-                nnn
+                
                 <FiLogOut />
               </button>
             </li>
